@@ -32,14 +32,6 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gke1404&layout=compact&theme=radical&utcOffset=8" />
 </p>
 
-<p align="left">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=gke1404&theme=radical&theme=react-dark" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gke1404" />
-</p>
-
-<p align="right">
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=gke1404&theme=react-dark" />
-</p>
 
 <!--
 **gke1404/gke1404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
