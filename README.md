@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Software Development Engineer in Test | Developer | Tech Explorer 🚀 </h3>
 
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_LINK" />
+  <img src="github-header-banner.png" />
 </p>
 
 
