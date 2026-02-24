@@ -5,6 +5,17 @@
   <img src="github-header-banner.png" />
 </p>
 
+## 💫 About Me
+
+🌱 I'm a **Software Development Engineer In Test** constantly enhancing my **DSA skills**
+
+🎮 When not coding, you'll find me playing **Cricket**
+
+🚀 I believe in continuous learning and staying ahead of emerging technologies
+
+👨‍💻 Always open to collaborate on innovative projects and automation solutions
+
+
 ## 🚀 Tech Stack
 
 <p>
