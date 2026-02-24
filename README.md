@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=gke1404&theme=react-dark" />
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=gke1404&theme=react-dark" />
 </p>
 
 
@@ -52,7 +52,7 @@
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gke1404&theme=radical" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gke1404&theme=radical" />
 </p>
 
 
