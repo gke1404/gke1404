@@ -33,7 +33,7 @@
 </p>
 
 <p align="left">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=gke1404&theme=radical&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=gke1404&theme=radical&theme=react-dark" />
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gke1404" />
 </p>
 
