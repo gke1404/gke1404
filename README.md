@@ -60,6 +60,9 @@
   <img src="https://komarev.com/ghpvc/?username=gke1404&color=blueviolet&style=for-the-badge" />
 </p>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gke1404&layout=compact&theme=github_dark&hide=html,css" />
+
+
 
 <!--
 **gke1404/gke1404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
