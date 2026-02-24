@@ -41,11 +41,13 @@
 </p>
 
 <!-- ===================== ROW 3 ===================== -->
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gke1404&theme=github_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gke1404&theme=github_dark" />
+</p>
 
 <!-- ===================== ROW 4 ===================== -->
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=gke1404&theme=github-dark" />
-</p>
+
 
 <!-- ===================== ROW 5 ===================== -->
 <p align="center">
