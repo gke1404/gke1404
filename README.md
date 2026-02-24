@@ -22,11 +22,14 @@
 ## 🚀 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,selenium,python,git,github,sql,appium" />
+<img src="https://skillicons.dev/icons?i=java,selenium,python,git,github,mysql,appium" />
 </p>
 
 ## 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=gke1404&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gke1404&layout=donut&theme=tokyonight" />
+
 
 
 
