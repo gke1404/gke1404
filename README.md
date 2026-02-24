@@ -26,9 +26,27 @@
 </p>
 
 ## 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=gke1404&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gke1404&layout=compact&theme=tokyonight" />
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gke1404&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=gke1404&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gke1404&layout=compact&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gke1404&theme=tokyonight&utcOffset=5.5" />
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=gke1404&theme=tokyo-night" />
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gke1404&theme=tokyonight" />
+</p>
+
+
 
 
 
