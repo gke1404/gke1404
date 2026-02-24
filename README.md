@@ -48,7 +48,7 @@
 <!-- ===================== ROW 4 ===================== -->
 <p align="center">
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=gke1404&theme=github-dark" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gke1404&theme=github_dark" />
+  <img width="49%" src="https://github-profile-summary-graph.vercel.app/api/cards/profile-details?username=gke1404&theme=github_dark" />
 </p>
 
 <!-- ===================== ROW 5 ===================== -->
