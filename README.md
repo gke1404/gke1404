@@ -11,20 +11,29 @@
 <img src="https://skillicons.dev/icons?i=java,selenium,python,git,github,sql,appium" />
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gke1404&show_icons=true&theme=radical)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gke1404&show_icons=true&theme=radical)
 
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=gke1404&theme=react-dark)
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=gke1404&theme=react-dark)
 
 
-![](https://komarev.com/ghpvc/?username=gke1404&color=brightgreen)
+[![](https://komarev.com/ghpvc/?username=gke1404&color=brightgreen)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gke1404&layout=compact&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gke1404&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gke1404&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gke1404&theme=radical)
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=F70000&center=true&vCenter=true&width=600&lines=Automation+Engineer;SDET;Java+%7C+Selenium+%7C+Appium;Always+Learning+New+Things)](https://git.io/typing-svg)
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gke1404&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=gke1404&theme=radical" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gke1404&layout=compact&theme=radical" />
+</p>
 
 
 <!--
