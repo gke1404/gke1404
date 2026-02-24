@@ -25,27 +25,40 @@
 <img src="https://skillicons.dev/icons?i=java,selenium,python,git,github,mysql,appium" />
 </p>
 
-## 📊 GitHub Stats:
-<p align="left">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gke1404&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=gke1404&theme=tokyonight" />
+## 📊 GitHub Stats
+
+<!-- ===================== ROW 1 ===================== -->
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark" />
 </p>
 
-<p align="left">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gke1404&layout=compact&theme=tokyonight" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gke1404&theme=tokyonight&utcOffset=5.5" />
+<!-- ===================== ROW 2 ===================== -->
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=github_dark&utcOffset=5.5" />
 </p>
 
-<p align="right">
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=gke1404&theme=tokyo-night" />
+<!-- ===================== ROW 3 ===================== -->
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark" />
 </p>
 
-<p align="right">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gke1404&theme=tokyonight" />
+<!-- ===================== ROW 4 ===================== -->
+<p align="center">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark" />
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=gke1404&color=blueviolet" />
+<!-- ===================== ROW 5 (Optional Extra Cards) ===================== -->
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=github_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=github_dark" />
+</p>
 
+<!-- ===================== PROFILE VIEW COUNTER ===================== -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge" />
+</p>
 
 
 
