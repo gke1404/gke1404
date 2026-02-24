@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gopalakrishnan Palanisamy </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=🚀+Software+Development+Engineer+In+Test;Tech Explorer & Developer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=🚀+Software+Development+Engineer+In+Test+🚀;🚀+Tech Explorer+&+Developer+🚀"/>
 </p>
 
-<h3 align="center">🚀 Software Development Engineer in Test |  |  🚀 </h3>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=🚀+Software+Development+Engineer+In+Test;🧪+QA+Automation+Specialist;💻+React+Developer;🐧+Linux+%7C+Ubuntu+Enthusiast;📚+DSA+Learner;🤝+Open+to+Collaboration" />
+</p>
 
 <p align="center">
   <img src="github-header-banner.png" />
