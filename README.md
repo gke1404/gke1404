@@ -28,10 +28,6 @@
 ## 📊 GitHub Stats
 
 <!-- ===================== ROW 1 ===================== -->
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gke1404&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=gke1404&theme=github-dark" />
-</p>
 
 <!-- ===================== ROW 2 ===================== -->
 <p align="center">
