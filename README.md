@@ -35,7 +35,7 @@
 
 <!-- ===================== ROW 2 ===================== -->
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gke1404&layout=compact&theme=github_dark&langs_count=8" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gke1404&layout=compact&theme=github_dark&langs_count=6&hide=HTML,CSS" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gke1404&theme=github_dark&utcOffset=5.5" />
 </p>
 
