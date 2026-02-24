@@ -39,12 +39,10 @@
 </p>
 
 <p align="right">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gke1404&layout=compact&theme=tokyonight" />
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=gke1404&theme=tokyo-night" />
 </p>
 
 <p align="right">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gke1404&layout=compact&theme=tokyonight" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gke1404&theme=tokyonight" />
 </p>
 
