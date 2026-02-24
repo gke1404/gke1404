@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gopalakrishnan Palanisamy </h1>
 <h3 align="center">🚀 Software Development Engineer in Test | Developer | Tech Explorer 🚀 </h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=🚀+Software+Development+Engineer+In+Test;Test Explorer & Developer" />
+</p>
+
 
 <p align="center">
   <img src="github-header-banner.png" />
