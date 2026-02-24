@@ -27,8 +27,6 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <!-- ===================== ROW 1 ===================== -->
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gke1404&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
