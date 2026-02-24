@@ -11,6 +11,23 @@
 <img src="https://skillicons.dev/icons?i=java,selenium,python,git,github,sql,appium" />
 </p>
 
+## 📊 GitHub Stats:
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gke1404&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=gke1404&theme=radical" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=radical&utcOffset=8" />
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=gke1404&theme=react-dark" />
+</p>
+
+
 🚀 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gke1404&show_icons=true&theme=radical)
 
 🚀 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=gke1404&theme=react-dark)
