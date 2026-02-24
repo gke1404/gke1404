@@ -5,6 +5,12 @@
   <img src="github-header-banner.png" />
 </p>
 
+## 🚀 Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,selenium,python,appium,git,github,,SQL" />
+</p>
+
 
 <!--
 **gke1404/gke1404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
