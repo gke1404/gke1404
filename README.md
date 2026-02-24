@@ -11,17 +11,17 @@
 <img src="https://skillicons.dev/icons?i=java,selenium,python,appium,git,github,,SQL" />
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gke1404&show_icons=true&theme=radical)
 
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=gke1404&theme=react-dark)
 
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=gke1404&color=brightgreen)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gke1404&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gke1404&theme=radical)
 
 
 ## 🚀 Tech Stack
