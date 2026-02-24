@@ -37,6 +37,10 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gke1404&layout=compact&theme=radical" />
 </p>
 
+<p align="center">
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gke1404&theme=radical" />
+</p>
+
 
 <!--
 **gke1404/gke1404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
