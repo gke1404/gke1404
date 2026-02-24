@@ -47,11 +47,13 @@
 </p>
 
 <!-- ===================== ROW 4 ===================== -->
-
-
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=gke1404&theme=github-dark" />
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gke1404&theme=github_dark" />
+</p>
 <!-- ===================== ROW 5 ===================== -->
 <p align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gke1404&theme=github_dark" />
+  
 </p>
 
 <!-- ===================== PROFILE VIEW COUNTER ===================== -->
