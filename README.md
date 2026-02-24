@@ -44,6 +44,7 @@
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gke1404&theme=tokyonight" />
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=gke1404&color=blueviolet" />
 
 
 
