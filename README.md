@@ -34,12 +34,12 @@
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gke1404&layout=compact&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gke1404&layout=compact&theme=radical" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gke1404&theme=tokyonight&utcOffset=5.5" />
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=gke1404&theme=tokyo-night" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=gke1404&theme=radical" />
 </p>
 
 <p align="center">
