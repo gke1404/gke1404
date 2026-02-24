@@ -38,10 +38,6 @@
 </p>
 
 <p align="right">
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=gke1404&theme=react-dark" />
-</p>
-
-<p align="right">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gke1404&layout=compact&theme=radical" />
 </p>
 
