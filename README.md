@@ -32,7 +32,7 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gke1404&layout=compact&theme=radical" />
 </p>
 
-<p align="right">
+<p align="left">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=gke1404&theme=radical" />
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gke1404&theme=radical&utcOffset=8" />
 </p>
