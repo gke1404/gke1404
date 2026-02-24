@@ -29,7 +29,7 @@
 
 <p align="right">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gke1404&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gke1404&layout=compact&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gke1404&layout=compact&theme=radical&utcOffset=8" />
 </p>
 
 <p align="left">
