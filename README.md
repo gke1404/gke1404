@@ -36,13 +36,14 @@
 
 <!-- ===================== ROW 2 ===================== -->
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gke1404&layout=donut&theme=github_dark&hide=html,css&langs_count=6" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gke1404&theme=github_dark&utcOffset=5.5" />
+  
 </p>
 
 <!-- ===================== ROW 3 ===================== -->
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gke1404&theme=github_dark" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gke1404&layout=donut&theme=github_dark&hide=html,css&langs_count=6" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gke1404&theme=github_dark&utcOffset=5.5" />
 </p>
 
 <!-- ===================== ROW 4 ===================== -->
