@@ -60,6 +60,10 @@
   <img src="https://komarev.com/ghpvc/?username=gke1404&color=blueviolet&style=for-the-badge" />
 </p>
 
+<p align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut&theme=github_dark&langs_count=8" />
+</p>
+
 
 
 
