@@ -5,18 +5,6 @@
   <img src="github-header-banner.png" />
 </p>
 
-<h2 align="center">💫 About Me</h2>
-
-<p align="center">
-🌱 Software Development Engineer In Test enhancing DSA skills <br>
-💻 React Developer & QA Automation Explorer <br>
-🐧 Ubuntu & Linux Enthusiast <br>
-🎮 BGMI Player & Tech Tutorial Learner <br>
-🚀 Continuous Learner | Future-Ready Engineer <br>
-👨‍💻 Open for Collaboration on Automation & Innovative Projects
-</p>
-
-
 ## 💫 About Me
 
 🌱 I'm a **Software Development Engineer In Test** constantly enhancing my **DSA skills**
