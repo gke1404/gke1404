@@ -28,12 +28,12 @@
 ## 📊 GitHub Stats:
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gke1404&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img width="49%" src="https://streak-stats.demolab.com?user=gke1404&theme=tokyonight" />
 </p>
 
-<p align="center">
+<p align="left">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gke1404&layout=compact&theme=tokyonight" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gke1404&theme=tokyonight&utcOffset=5.5" />
 </p>
