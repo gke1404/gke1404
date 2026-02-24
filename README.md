@@ -35,7 +35,7 @@
 
 <!-- ===================== ROW 2 ===================== -->
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gke1404&layout=compact&theme=github_dark&langs_count=6&hide=HTML,CSS" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gke1404&layout=compact&theme=github_dark&langs_count=6&hide=html,css" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gke1404&theme=github_dark&utcOffset=5.5" />
 </p>
 
@@ -59,10 +59,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gke1404&color=blueviolet&style=for-the-badge" />
 </p>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gke1404&layout=compact&theme=github_dark&hide=html,css" />
-
-
 
 <!--
 **gke1404/gke1404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
