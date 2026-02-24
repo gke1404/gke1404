@@ -27,15 +27,17 @@
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <!-- ===================== ROW 1 ===================== -->
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gke1404&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
   <img width="49%" src="https://streak-stats.demolab.com?user=gke1404&theme=github-dark" />
 </p>
 
 <!-- ===================== ROW 2 ===================== -->
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gke1404&layout=compact&theme=github_dark" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gke1404&layout=compact&theme=github_dark&langs_count=8" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gke1404&theme=github_dark&utcOffset=5.5" />
 </p>
 
@@ -49,7 +51,7 @@
   <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gke1404&theme=github_dark" />
 </p>
 
-<!-- ===================== ROW 5 (Optional Extra Cards) ===================== -->
+<!-- ===================== ROW 5 ===================== -->
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gke1404&theme=github_dark" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gke1404&theme=github_dark" />
@@ -59,16 +61,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gke1404&color=blueviolet&style=for-the-badge" />
 </p>
-
-<p align="center">
-  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gke1404&theme=tokyonight" />
-  <img width="38%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gke1404&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gke1404&layout=donut&theme=github_dark" />
-</p>
-
 
 
 <!--
