@@ -26,6 +26,7 @@
 </p>
 
 ## 📊 GitHub Stats
+
 <!-- ===================== ROW 1 ===================== -->
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gke1404&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
@@ -34,24 +35,24 @@
 
 <!-- ===================== ROW 2 ===================== -->
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gke1404&layout=compact&theme=github_dark&langs_count=6&hide=HTML,CSS" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gke1404&layout=donut&theme=github_dark&hide=HTML,CSS&langs_count=6" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gke1404&theme=github_dark&utcOffset=5.5" />
 </p>
 
-<!-- ===================== ROW 3 (FIXED ACTIVITY GRAPH) ===================== -->
+<!-- ===================== ROW 3 ===================== -->
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=gke1404&theme=github-dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gke1404&theme=github_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gke1404&theme=github_dark" />
 </p>
 
 <!-- ===================== ROW 4 ===================== -->
 <p align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gke1404&theme=github_dark" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=gke1404&theme=github-dark" />
 </p>
 
 <!-- ===================== ROW 5 ===================== -->
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gke1404&theme=github_dark" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gke1404&theme=github_dark" />
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gke1404&theme=github_dark" />
 </p>
 
 <!-- ===================== PROFILE VIEW COUNTER ===================== -->
