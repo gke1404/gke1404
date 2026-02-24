@@ -51,9 +51,6 @@
 </p>
 
 <!-- ===================== ROW 5 ===================== -->
-<p align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gke1404&theme=github_dark" />
-</p>
 
 <!-- ===================== PROFILE VIEW COUNTER ===================== -->
 <p align="center">
