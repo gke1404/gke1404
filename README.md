@@ -72,7 +72,9 @@ As an SDET, you get the best of both worlds. You write code (just like a develop
 ## :globe_with_meridians: Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gk_elavarasi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gopalakrishnan-palanisamy-61652533b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gpalanisamy526@gmail.com) 
 
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=gke1404&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
+
 
