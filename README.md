@@ -75,6 +75,3 @@ As an SDET, you get the best of both worlds. You write code (just like a develop
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=gke1404&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-
-
-
