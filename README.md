@@ -20,9 +20,6 @@ As an SDET, you get the best of both worlds. You write code (just like a develop
 
 ## :computer: Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,selenium,python,git,github,mysql,jenkins,postman,restassured,appium" />
-</p>
 <div align="left">
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
