@@ -1,5 +1,3 @@
-
-
 <p align="center">
   <img src="github-header-banner.png" />
 </p>
@@ -8,17 +6,14 @@
 As an SDET, you get the best of both worlds. You write code (just like a developer)
 
 ## 💫 About Me
+🌱 I'm a **Software Development Engineer In Test** constantly enhancing my **DSA skills**  
+🎮 When not coding, you'll find me playing **Cricket**  
+🚀 I believe in continuous learning and staying ahead of emerging technologies  
+👨‍💻 Always open to collaborate on innovative projects and automation solutions  
 
-🌱 I'm a **Software Development Engineer In Test** constantly enhancing my **DSA skills**
+---
 
-🎮 When not coding, you'll find me playing **Cricket**
-
-🚀 I believe in continuous learning and staying ahead of emerging technologies
-
-👨‍💻 Always open to collaborate on innovative projects and automation solutions
-
-
-## :computer: Tech Stack
+## 💻 Tech Stack
 
 <div align="left">
 
@@ -33,7 +28,8 @@ As an SDET, you get the best of both worlds. You write code (just like a develop
 
 </div>
 
-## :computer:Up - Skilling Tech
+## 💻 Up-Skilling Tech
+
 <p>
 <img src="https://skillicons.dev/icons?i=javascript,typescript" />
 </p>
@@ -46,7 +42,76 @@ As an SDET, you get the best of both worlds. You write code (just like a develop
 
 </div>
 
-  
+---
+
+## 📊 GitHub Stats & Graphs
+
+<div align="left">
+
+### 🔢 Overall Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gke1404&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+
+### 🔥 Contribution Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gke1404&theme=dracula&hide_border=false)
+
+### 🗣️ Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gke1404&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### 📈 Contribution Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gke1404&theme=dracula&hide_border=false&area=true)
+
+</div>
+
+---
+
+## 📁 My Repositories
+
+### 👉 [View All My Repositories →](https://github.com/gke1404?tab=repositories)
+
+</div>
+
+---
+
+## 📄 Resume
+
+<div align="center">
+
+<br/>
+
+[![View Resume](https://img.shields.io/badge/👁️%20View%20Resume-0A66C2?style=for-the-badge&logo=googledrive&logoColor=white)](https://docs.google.com/viewer?url=https://github.com/gke1404/gke1404/raw/main/Gopalakrishnan_Palanisamy_Resume.pdf)
+&nbsp;&nbsp;
+[![Download Resume](https://img.shields.io/badge/⬇️%20Download%20Resume-D14836?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/gke1404/gke1404/raw/main/Gopalakrishnan_Palanisamy_Resume.pdf)
+
+<br/>
+
+> 📌 **Note:** Click **View Resume** to preview in browser · Click **Download Resume** to save the PDF
+
+</div>
+
+---
+
+## 🌐 Socials
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/gk_elavarasi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gopalakrishnan-palanisamy-61652533b)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gpalanisamy526@gmail.com)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=gke1404&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+</div>
+
+---
+
 <!-- Snake Animation -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
@@ -55,19 +120,8 @@ As an SDET, you get the best of both worlds. You write code (just like a develop
 <!-- Visit Counter -->
 <div align="center">
 
-  [![](https://visitcount.itsvg.in/api?id=Codingnaveen46&icon=0&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=gke1404&icon=0&color=6)](https://visitcount.itsvg.in)
+
 </div>
 
-<h3 align="center">:sparkles: Let's Build Something Awesome Together! :sparkles:</h3>
-
-# :trophy: Trophies
-
-<div align="left">
-<img src="https://github-trophies.vercel.app/?username=gke1404&theme=dracula&no-frame=false&no-bg=false&margin-w=4">
-</div>
-
-## :globe_with_meridians: Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gk_elavarasi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gopalakrishnan-palanisamy-61652533b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gpalanisamy526@gmail.com) 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=gke1404&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<h3 align="center">✨ Let's Build Something Awesome Together! ✨</h3>
