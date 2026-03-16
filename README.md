@@ -48,14 +48,17 @@ As an SDET, you get the best of both worlds. You write code (just like a develop
 
 <div align="left">
 
+### 🗣️ Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gke1404&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=donut-vertical&hide=html,css,shell,dockerfile&langs_count=10&size_weight=0.5&count_weight=0.5)
+
+
 ### 🔢 Overall Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gke1404&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
 
 ### 🔥 Contribution Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gke1404&theme=dracula&hide_border=false)
 
-### 🗣️ Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gke1404&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 📈 Contribution Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gke1404&theme=dracula&hide_border=false&area=true)
