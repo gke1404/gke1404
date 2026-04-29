@@ -81,9 +81,9 @@ As an SDET, you get the best of both worlds. You write code (just like a develop
 
 <br/>
 
-[![View Resume](https://img.shields.io/badge/👁️%20View%20Resume-0A66C2?style=for-the-badge&logo=googledrive&logoColor=white)](https://docs.google.com/viewer?url=https://github.com/gke1404/gke1404/raw/main/Gopalakrishnan_Palanisamy_Resume.pdf)
+[![View Resume](https://img.shields.io/badge/👁️%20View%20Resume-0A66C2?style=for-the-badge&logo=googledrive&logoColor=white)](https://docs.google.com/viewer?url=https://github.com/gke1404/gke1404/raw/main/Gopalakrishnan_Palanisamy_SDET_Resume.pdf)
 &nbsp;&nbsp;
-[![Download Resume](https://img.shields.io/badge/⬇️%20Download%20Resume-D14836?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/gke1404/gke1404/raw/main/Gopalakrishnan_Palanisamy_Resume.pdf)
+[![Download Resume](https://img.shields.io/badge/⬇️%20Download%20Resume-D14836?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/gke1404/gke1404/raw/main/Gopalakrishnan_Palanisamy_SDET_Resume.pdf)
 
 <br/>
 
